@@ -1,0 +1,33 @@
+{
+  "title": "Walkfigure: gait analysis from one video, on your own computer",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Chnani, Moh",
+      "affiliation": "MGAM LLC"
+    }
+  ],
+  "description": "<p>Walkfigure measures the sagittal-plane joint angles and the timing and spacing of a person's steps from a single video recorded with an ordinary camera, and shows the walk as a three-dimensional figure that can be turned, stepped through frame by frame, and stood beside a typical walker built from published reference curves.</p><p>It measures hip, knee, ankle and trunk angles on every frame, detects heel strikes and toe-offs, and derives cadence, stride time, stance and double support, step length, toe clearance and heel rise, with per-stride variability and left-to-right symmetry. The analysis runs entirely on the user's own computer: no video and no result is uploaded.</p><p><strong>Walkfigure is research software and is not a medical device.</strong> It does not diagnose, it does not recommend treatment, and its numbers are estimates to be checked against the recording rather than measurements to rely on. Angles are measured in the side view only, come from keypoints found by a pose model rather than from markers, and can differ from a gait laboratory's by several degrees, most at the ankle.</p><p>The pose stage is a modified copy of Sports2D (Pagnon 2024, doi:10.21105/joss.06849), which should be cited alongside this record. The typical-walking reference curves are from Lencioni et al. (2019), used under CC BY 4.0.</p>",
+  "keywords": [
+    "gait analysis",
+    "markerless motion capture",
+    "pose estimation",
+    "biomechanics",
+    "rehabilitation",
+    "kinematics",
+    "video analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.21105/joss.06849",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://mgam.bio/walkfigure",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open"
+}

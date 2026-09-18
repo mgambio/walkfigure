@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: Walkfigure
+message: >-
+  If you use Walkfigure in work you publish, please cite it as below. Please also cite Sports2D, whose pose stage
+  Walkfigure's engine is built from, and Lencioni et al. for the typical-walking reference curves.
+type: software
+authors:
+  - family-names: Chnani
+    given-names: Moh
+    affiliation: MGAM LLC
+abstract: >-
+  Walkfigure measures the sagittal-plane joint angles and the timing and spacing of a person's steps from a single video
+  recorded with an ordinary camera, and shows the walk as a three-dimensional figure that can be turned, stepped through
+  frame by frame, and compared with a typical walker built from published reference curves. It measures hip, knee, ankle
+  and trunk angles, heel strikes and toe-offs, cadence, stride time, stance and double support, step length, toe
+  clearance and heel rise, with per-stride variability and left-to-right symmetry. The analysis runs entirely on the
+  user's own computer; no video or result is uploaded. Walkfigure is research software and is not a medical device: it
+  does not diagnose, it does not recommend treatment, and its numbers are estimates to be checked against the recording.
+version: 1.1.66
+date-released: '2026-09-18'
+url: https://mgam.bio/walkfigure
+repository-artifact: https://github.com/mgambio/walkfigure/releases
+license-url: https://github.com/mgambio/walkfigure/blob/master/LICENCE.txt
+keywords:
+  - gait analysis
+  - markerless motion capture
+  - pose estimation
+  - biomechanics
+  - rehabilitation
+  - kinematics
+references:
+  - type: article
+    title: 'Sports2D: Compute 2D human pose and angles from a video or a webcam'
+    authors:
+      - family-names: Pagnon
+        given-names: David
+    journal: Journal of Open Source Software
+    year: 2024
+    doi: 10.21105/joss.06849
+  - type: article
+    title: >-
+      Are the kinematic and kinetic patterns of the lower limbs during gait different between adults and older adults?
+    authors:
+      - family-names: Lencioni
+        given-names: Tiziana
+    year: 2019
+    notes: >-
+      The reference dataset the typical walker's curves are built from, used under CC BY 4.0. See
+      REFERENCE_DATA_NOTICE in the installation for the exact citation and terms.
