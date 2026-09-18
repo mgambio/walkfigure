@@ -2,6 +2,8 @@
 
 **Gait analysis from one phone video, on your own computer.** Free.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22837820.svg)](https://doi.org/10.5281/zenodo.22837820)
+
 Walkfigure takes an ordinary video of someone walking past a phone. It finds the body's keypoints, measures the hip,
 knee, ankle and trunk angles and the timing of every step, and shows the walk as a 3D figure you can turn, step through
 frame by frame, and stand beside a typical walker. **The video is analysed on your computer. It is not uploaded.**
@@ -88,8 +90,17 @@ in your installation.
 
 ## Citing
 
-Walkfigure's pose stage is a modified copy of [Sports2D](https://github.com/davidpagnon/Sports2D) (BSD 3-Clause). If you
-publish work that used Walkfigure, please cite its authors:
+If you publish work that used Walkfigure, please cite it:
+
+> Chnani, M. (2026). *Walkfigure: gait analysis from one video, on your own computer.* Zenodo.
+> doi:[10.5281/zenodo.22837820](https://doi.org/10.5281/zenodo.22837820)
+
+That is the concept DOI and always resolves to the newest version; use
+[10.5281/zenodo.22837821](https://doi.org/10.5281/zenodo.22837821) to point at v1.1.68 exactly. GitHub's
+"Cite this repository" box reads the same details from `CITATION.cff`.
+
+Walkfigure's pose stage is a modified copy of [Sports2D](https://github.com/davidpagnon/Sports2D) (BSD 3-Clause), whose
+authors ask to be cited too:
 
 > Pagnon, D. (2024). Sports2D. *Journal of Open Source Software*. doi:[10.21105/joss.06849](https://doi.org/10.21105/joss.06849)
 
