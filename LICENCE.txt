@@ -1,0 +1,126 @@
+WALKFIGURE LICENCE AGREEMENT
+Research edition. Version 1, 18 September 2026.
+
+Walkfigure is made by MGAM LLC ("MGAM", "we", "us"). This agreement is between you and MGAM, and it governs your use of
+the Walkfigure software, including its analysis engine, its documentation and any update we give you (together, "the
+Software").
+
+By installing or using the Software you accept this agreement. If you do not accept it, do not install the Software,
+and delete any copy you have.
+
+
+1. WHAT YOU MAY DO
+
+The Software is free. We give you a non-exclusive, worldwide, royalty-free licence to install and use it on any number
+of computers you own or control, for as long as you keep to this agreement.
+
+You may give an unmodified copy of the installer to someone else, provided you give it away, you keep every notice and
+file in it intact, and you give them this agreement with it.
+
+
+2. WHAT THE SOFTWARE IS FOR
+
+The Software is research software, and it is in beta. It is intended for research, teaching, sport and personal use.
+
+THE SOFTWARE IS NOT A MEDICAL DEVICE. It does not diagnose, screen for, or detect any disease or condition, it does not
+recommend or plan treatment, and it does not predict anyone's risk of anything. Its numbers are estimates produced from
+a single video by a pose-estimation model, and they are to be checked against the recording, not relied upon.
+
+You must not use the Software as the basis of a diagnosis, of a treatment decision, or of any other decision about a
+person's health or care. Anyone who uses it in a clinical setting does so on their own professional judgement and their
+own responsibility, and any clinical conclusion remains theirs.
+
+
+3. WHAT YOU MAY NOT DO
+
+You may not:
+
+  (a) sell the Software, charge for it, or include it in anything you sell;
+  (b) rent, lease, sublicense or host it as a service for others;
+  (c) remove, obscure or alter any notice of ownership, licence or attribution in it or in its output;
+  (d) present its output as a medical determination, a diagnosis, or a measurement of clinical accuracy; or
+  (e) reverse engineer, decompile or disassemble it, except so far as the law expressly permits despite this term, and
+      except for the third-party components described in section 4, whose own licences govern instead.
+
+
+4. OTHER PEOPLE'S SOFTWARE
+
+The Software includes components written by others, each under its own licence. Those licences are in the "licenses"
+folder of your installation, and the components are listed in PACKAGES.md there. Where a component's own licence gives
+you rights that this agreement does not, that licence governs that component and nothing here takes those rights away.
+
+The Software's pose stage is a modified copy of Sports2D (BSD 3-Clause). Its authors ask to be cited as:
+Pagnon, D. (2024). Sports2D. Journal of Open Source Software. doi:10.21105/joss.06849. If you publish work that used
+the Software, please cite them.
+
+
+5. WHAT LEAVES YOUR COMPUTER
+
+The analysis runs on your computer. Your videos and your projects stay on it. MGAM does not collect them, does not
+receive them, and operates no service that they pass through.
+
+There is one exception, and it is yours to choose. Somi, the assistant inside the Software, answers using a language
+model run by a third party over the internet. When, and only when, you ask Somi something, your message and the gait
+numbers and scene details Somi reads in order to answer are sent to that provider, who may retain what it is sent and
+may use it under their own terms. If that is not acceptable for the people you record, do not use Somi; everything else
+in the Software works without it.
+
+
+6. THE PEOPLE YOU RECORD
+
+You are responsible for the videos you analyse and for the people in them. You must have whatever consent or other
+lawful basis your jurisdiction requires before recording or analysing a person, and you must handle the recordings and
+the results according to the data protection and medical confidentiality laws that apply to you. MGAM is not a
+controller or a processor of that information and has no access to it.
+
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT.
+
+We do not warrant that the Software is accurate, that its measurements agree with any other method, that it will run
+without fault, or that any fault will be corrected. It is beta software and it will sometimes be wrong.
+
+
+8. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, MGAM SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL
+OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, GOODWILL OR BUSINESS, ARISING OUT OF OR RELATING TO THE SOFTWARE
+OR THIS AGREEMENT, ON ANY THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+MGAM'S TOTAL LIABILITY ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS AGREEMENT SHALL NOT EXCEED ONE HUNDRED US
+DOLLARS (US$100).
+
+Nothing in this agreement excludes or limits liability that cannot lawfully be excluded or limited, including liability
+for death or personal injury caused by negligence, or for fraud. Some jurisdictions do not allow the exclusion of
+implied warranties or the limitation of certain damages, so parts of sections 7 and 8 may not apply to you.
+
+
+9. NO OBLIGATION TO SUPPORT
+
+MGAM has no obligation to provide support, updates or new versions, or to keep the Software available for download. We
+may change or discontinue it at any time.
+
+
+10. TERM AND TERMINATION
+
+This agreement applies for as long as you use the Software. It ends automatically if you breach it. You may end it at
+any time by uninstalling the Software and deleting every copy. Sections 2, 3, 4, 6, 7, 8 and 11 survive the end of this
+agreement.
+
+
+11. GOVERNING LAW
+
+This agreement is governed by the laws of the State of Colorado, United States, without regard to its conflict of law
+rules, and the state and federal courts located in Colorado shall have exclusive jurisdiction. If any provision is held
+unenforceable, the rest remains in force.
+
+
+12. THE WHOLE AGREEMENT
+
+This is the entire agreement between you and MGAM about the Software, and it replaces anything said or written before
+it. Our failure to enforce a term is not a waiver of it.
+
+Questions: contact@mgam.bio
+MGAM LLC, United States.
