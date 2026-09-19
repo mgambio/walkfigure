@@ -35,6 +35,7 @@ Get-FileHash WalkfigureSetup.exe
 
 | Version | SHA-256 |
 |---|---|
+| 1.1.69 | `706cb44e99efdbab475ea9348b468f13093dfada83a5194f59a391da65280e52` |
 | 1.1.66 | `233d50d26539dcc90e3c70f8d69c6f75d4bc43d095224e947557251dceabbd8d` |
 
 ## What it measures
@@ -96,7 +97,8 @@ If you publish work that used Walkfigure, please cite it:
 > doi:[10.5281/zenodo.22837820](https://doi.org/10.5281/zenodo.22837820)
 
 That is the concept DOI and always resolves to the newest version; use
-[10.5281/zenodo.22837821](https://doi.org/10.5281/zenodo.22837821) to point at v1.1.68 exactly. GitHub's
+[10.5281/zenodo.22837821](https://doi.org/10.5281/zenodo.22837821) to point at v1.1.68 exactly. Zenodo
+mints a DOI per release, so 1.1.69 gets its own once deposited. GitHub's
 "Cite this repository" box reads the same details from `CITATION.cff`.
 
 Walkfigure's pose stage is a modified copy of [Sports2D](https://github.com/davidpagnon/Sports2D) (BSD 3-Clause), whose

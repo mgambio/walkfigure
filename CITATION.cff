@@ -16,7 +16,7 @@ abstract: >-
   clearance and heel rise, with per-stride variability and left-to-right symmetry. The analysis runs entirely on the
   user's own computer; no video or result is uploaded. Walkfigure is research software and is not a medical device: it
   does not diagnose, it does not recommend treatment, and its numbers are estimates to be checked against the recording.
-version: 1.1.68
+version: 1.1.69
 date-released: '2026-09-18'
 identifiers:
   - type: doi
@@ -26,7 +26,8 @@ identifiers:
       exact version.
   - type: doi
     value: 10.5281/zenodo.22837821
-    description: The DOI of version 1.1.68.
+    description: >-
+      The DOI of version 1.1.68. Zenodo mints one per release; until it has for 1.1.69, cite the concept DOI above.
 url: https://mgam.bio/walkfigure
 repository-artifact: https://github.com/mgambio/walkfigure/releases
 license-url: https://github.com/mgambio/walkfigure/blob/master/LICENCE.txt
