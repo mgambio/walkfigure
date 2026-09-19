@@ -17,7 +17,7 @@ abstract: >-
   user's own computer; no video or result is uploaded. Walkfigure is research software and is not a medical device: it
   does not diagnose, it does not recommend treatment, and its numbers are estimates to be checked against the recording.
 version: 1.1.69
-date-released: '2026-09-18'
+date-released: '2026-09-19'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.22837820
@@ -25,9 +25,8 @@ identifiers:
       The concept DOI, which always resolves to the newest version. Cite this one unless you need to point at an
       exact version.
   - type: doi
-    value: 10.5281/zenodo.22837821
-    description: >-
-      The DOI of version 1.1.68. Zenodo mints one per release; until it has for 1.1.69, cite the concept DOI above.
+    value: 10.5281/zenodo.22839969
+    description: The DOI of version 1.1.69.
 url: https://mgam.bio/walkfigure
 repository-artifact: https://github.com/mgambio/walkfigure/releases
 license-url: https://github.com/mgambio/walkfigure/blob/master/LICENCE.txt
